@@ -22,4 +22,4 @@ I have effectively worked in multidisciplinary positions in the past, ranging fr
 
 ### Contact me
 
-[tom@tswartz.net](mailto:tom@tswartz.net)
+Please feel free to contact me via any of the services linked at the bottom of the site.
