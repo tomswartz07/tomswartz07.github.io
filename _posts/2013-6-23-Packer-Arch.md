@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to install "Packer', the ArchLinux AUR Helper
+keywords: Pacman, packer, archlinux, arch, aur, install packer, linux
 ---
 
 Packer is an extremely useful 'wrapper' for ArchLinux's Arch User Repository (AUR). According to the ArchWiki:
