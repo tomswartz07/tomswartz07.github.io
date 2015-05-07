@@ -35,7 +35,7 @@ I can frequently be found flying one of my multicopters outside.
 
 ### Programming
 
-![App Screenshot]({{ site.baseurl }}/images/app.jpg)
+![App]({{ site.baseurl }}/images/app.jpg)
 I currently have a few Android applications available for download on the Android Market and Amazon Appstore. 
 
 Seen at right is a screenshot of my first, and main app. It is a minimalistic clock widget for Android phones. 
