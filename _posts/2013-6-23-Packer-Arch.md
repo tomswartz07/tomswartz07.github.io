@@ -15,11 +15,11 @@ I find it easiest to do everything quickly from the command line.
 ```bash
 # Install the package dependencies
 # needed to use and build Packer:
-pacman -S base-devel fakeroot jshon expac git
+pacman -S base-devel fakeroot jshon expac wget git
 
 # Get the PKGBUILD
 # (I typically save it in a separate folder for cleanliness)
-wget https://aur.archlinux.org/packages/pa/packer/PKGBUILD
+wget https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD?h=packer
 
 # Run makepkg on the PKGBUILD as a regular user
 makepkg
