@@ -4,8 +4,12 @@ title: Work Experience
 permalink: /experience/
 ---
 
+## Crunchy Data Solutions
+### Programmer and On-Call Support Agent 2016-Present
+
+
 ## Penn Manor School District
-### Technology Support Specialist: 2011-Present
+### Technology Support Specialist: 2011-2016
 
 Working as a Technical Support Specialist at Penn Manor School District provided many opportunities to work with computers and technology support within a school setting. I was assigned 3 separate school buildings within the district; Eshleman Elementary School, Conestoga Elementary School, and Manor Middle School. 
 
