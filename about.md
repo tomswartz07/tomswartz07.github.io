@@ -20,7 +20,7 @@ I hope to take full advantage of these skills with a productive and fulfilling c
 
 I have effectively worked in multidisciplinary positions in the past, ranging from Warehouse Operations within a welding supply company to Head Developer on several technology-based projects.
 
-I currently work at the Penn Manor School District in Lancaster, Pennsylvania.
+I currently work remotely for Crunchy Data Solutions, a PostgreSQL company.
 
 ### Technology
 I am very involved with Open Source Computing, as well as Linux Development.
