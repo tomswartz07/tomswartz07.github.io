@@ -54,8 +54,8 @@ google:
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: rouge
-highlighter: pygments
+markdown: redcarpet
+highlighter: rouge
 permalink: /:title/
 future: false
 
